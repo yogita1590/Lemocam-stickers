@@ -1,0 +1,5 @@
+Required files：
+
+1. PSD file (if there is any complicated face effect, e.g. gold powder on face or special effect, please do not merge layers)
+2、PGN file
+3、Text description (if there's any special effect)
